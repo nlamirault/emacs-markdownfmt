@@ -28,7 +28,7 @@
 
 (defgroup markdownfmt nil
   "Format Markdown buffers using markdownfmt."
-  :group 'markdown
+  :group 'markdown)
 
 (defcustom markdownfmt-bin "markdownfmt"
   "Path to markdownfmt executable."
