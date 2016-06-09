@@ -27,7 +27,7 @@
 
 
 (defgroup markdownfmt nil
-  "Format Markdown buffers using rustfmt."
+  "Format Markdown buffers using markdownfmt."
   :group 'markdown
 
 (defcustom markdownfmt-bin "markdownfmt"

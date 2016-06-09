@@ -10,7 +10,7 @@ Develop:
 * [![Melpa Status](https://melpa.org/packages/markdownfmt-badge.svg)](https://melpa.org/#/markdownfmt)
 * [![Circle CI](https://circleci.com/gh/nlamirault/markdownfmt/tree/develop.svg?style=svg)](https://circleci.com/gh/nlamirault/emacs-markdownfmt/tree/develop)
 
-Format rust code in emacs using [markdownfmt](https://github.com/shurcooL/markdownfmt)
+Format Markdown in emacs using [markdownfmt](https://github.com/shurcooL/markdownfmt)
 
 ## Installation
 
