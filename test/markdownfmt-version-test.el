@@ -19,8 +19,6 @@
 ;;; Code:
 
 
-(require 'test-helper)
-
 (ert-deftest test-markdownfmt-library-version ()
   :expected-result (if (executable-find "cask") :passed :failed)
   (let* ((cask-version (car (last (process-lines "cask" "version")))))

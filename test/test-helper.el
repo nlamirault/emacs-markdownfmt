@@ -80,5 +80,4 @@
          ;; (error
          ;;  (message (ansi-red "[markdownfmt] Error during unit tests : %s" ex))))))
 
-(provide 'test-helper)
 ;;; test-helper.el ends here
